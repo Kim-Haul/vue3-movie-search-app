@@ -1,6 +1,12 @@
+**페이지 상단부**
 ![logo](./images/main1.png)
 
+<br/>
+
+**페이지 하단부**
 ![logo](./images/main2.png)
+
+<br/>
 
 ## Installation
 
