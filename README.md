@@ -1,5 +1,6 @@
 ![logo](./images/main1.png)
-![logo](./images/main1.png)
+
+![logo](./images/main2.png)
 
 ## Installation
 
